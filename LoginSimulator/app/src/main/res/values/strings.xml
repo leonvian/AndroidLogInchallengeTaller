@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginSimulator</string>
+
+    <string name="hint_password">Password</string>
+    <string name="hint_login">Login</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="login_generic_error_message">Something wrong happens, please try again.</string>
+    <string name="sign_successful_message">You are signed in.</string>
+    <string name="sign_in_no_fields_error">Login or password are invalid</string>
+</resources>
